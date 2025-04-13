@@ -10,6 +10,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write  # Ensure the GitHub Actions bot can push changes to the repository
+
 jobs:
   generate:
     runs-on: ubuntu-latest
