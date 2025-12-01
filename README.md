@@ -175,36 +175,6 @@ A gamified VR experience that helps children develop fine and gross motor skills
 
 ---
 
-## 💡 Powered by Collaboration
-
-These projects wouldn’t have been possible without the incredible teamwork and late-night debugging with my talented collaborator:
-
-### 👳🏽‍♂️ Ikjot Singh  
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/ikjotSingh221)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ikjot-singh-415089311)
-
-<div style="border-top: 1px solid #e0e0e0; margin: 20px 0;"></div>
-
-### 👩🏻 Harshita Khattar 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/hkhattar22)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/harshita-khattar-4b4774252)
-
-<div style="border-top: 1px solid #e0e0e0; margin: 20px 0;"></div>
-
-### 👩🏻 Chahat Verma 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/Chahat-05)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chahat-verma-2a3b42262)
-
-<div style="border-top: 1px solid #e0e0e0; margin: 20px 0;"></div>
-
-### 🧔🏽‍♂️ Yatish Garg 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/yatishgarg-411)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yatish-garg-818554267)
-
-Together, we created systems that combine creativity, code, and problem-solving at their finest.
-
----
-
 ## 📬 Connect with Me
 
 Feel free to reach out, collaborate, or chat about tech!
